@@ -14,3 +14,11 @@
   width: 70px;
   height: 70px;
 }
+
+.score-board {
+  margin: 50px;
+}
+
+h2 {
+  font-size: 30px;
+}
